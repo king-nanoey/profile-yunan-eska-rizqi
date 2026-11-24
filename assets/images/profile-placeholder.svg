@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+<rect width="600" height="750" fill="#cbd5c5"/>
+<circle cx="300" cy="310" r="210" fill="#dce5d6"/>
+<ellipse cx="300" cy="310" rx="270" ry="105" fill="none" stroke="#71806c" stroke-width="2" transform="rotate(-28 300 310)"/>
+<text x="300" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="260" font-weight="bold" fill="#384338">Y<tspan fill="#83c94c">.</tspan></text>
+<text x="555" y="700" text-anchor="end" font-family="monospace" font-size="18" fill="#596555">YOUR PHOTO GOES HERE</text>
+</svg>
